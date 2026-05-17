@@ -1,0 +1,15 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+GIT_it_standalone.html
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+db.sqlite3
+
+# Node
+node_modules/
+dist/
